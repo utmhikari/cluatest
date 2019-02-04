@@ -1,0 +1,3 @@
+/home/hikari/文档/Projects/lua/cluatest/CMakeFiles/rebuild_cache.dir
+/home/hikari/文档/Projects/lua/cluatest/CMakeFiles/main.dir
+/home/hikari/文档/Projects/lua/cluatest/CMakeFiles/edit_cache.dir
