@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "chapter_27.h": "c",
-        "chapter_31.h": "c",
-        "base.h": "c",
-        "expat.h": "c",
-        "string.h": "c"
-    }
-}

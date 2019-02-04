@@ -1,1 +1,0 @@
-/usr/bin/cc -g -Wall  -rdynamic CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/include/examples.c.o  -o main  -L/home/hikari/文档/Projects/lua/cluatest/lib  -L/usr/local/lib -Wl,-rpath,/home/hikari/文档/Projects/lua/cluatest/lib:/usr/local/lib -llua 

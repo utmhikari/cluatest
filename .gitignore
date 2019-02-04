@@ -1,0 +1,9 @@
+.editorconfig
+build/
+CMakeCache.txt
+*.cmake
+CMakeFiles/
+*.iml
+.idea/
+.vscode/
+
